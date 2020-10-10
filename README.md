@@ -1,13 +1,10 @@
 
 ![image](https://github.com/Easyvipin/easyvipin/blob/master/Screenshot%202020-10-06%20142231.jpg)
 
-### `<TITLE>`HELLO FRIEND :wink:`</TITLE>`
-
 ## `<ABOUT/>` 
 I am a front-end Developer without job!! So messing around with open-source , APIs and Front-end.
 
 ***"JavaScript is my fav language"***
-
 
 <table scrolling=no>
 <tr>
@@ -15,6 +12,8 @@ I am a front-end Developer without job!! So messing around with open-source , AP
 <br>
  
 ## `<Status/>`
+
+
 :rocket: Currently learning MERN stack!
 
 :comet: hunting down for Job!!
