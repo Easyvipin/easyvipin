@@ -27,7 +27,7 @@ I am a front-end Developer without job!! So messing around with open-source , AP
  
  👩🏻‍🏫 Helping devs and sharing my knowledge.
  
- :mountain: Hikings ,Travelling.
+ :mountain: Hiking ,Travelling.
  
  </td>
  
