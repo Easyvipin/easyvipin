@@ -52,7 +52,7 @@ I am a front-end Developer without job!! So messing around with open-source , AP
                                             
 ## `<SundayBLOGS/>`
 
-***"Rececently i have decided that on every sunday i'll be posting a new blog "***
+***"Recently i have decided that on every sunday i'll be posting a new blog "***
 
 https://easyvipin.hashnode.dev/
 
