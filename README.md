@@ -49,8 +49,6 @@ I am a front-end Developer without job!! So messing around with open-source , AP
                                             
 ## `<SundayBLOGS/>`
 
-***" Do check My blogs"***
-
 https://easyvipin.hashnode.dev/
 
 https://dev.to/easyvipin
