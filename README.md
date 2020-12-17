@@ -8,12 +8,9 @@ I am a front-end Developer without job!! So messing around with open-source , AP
 
 <table scrolling=no>
 <tr>
-<td>
-<br>
+<td> 
  
 ## `<Status/>`
-
-
 :rocket: Currently learning MERN stack!
 
 :comet: hunting down for Job!!
