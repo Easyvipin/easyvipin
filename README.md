@@ -4,7 +4,7 @@
 ## `<ABOUT/>` 
 I am a front-end Developer without job!! So messing around with open-source , APIs and Front-end.
 
-***"JavaScript is my fav language"***
+***React is the Revolution in UI***
 
 <table scrolling=no>
 <tr>
