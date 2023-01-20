@@ -41,9 +41,6 @@ I'm a Front-end Developer and IT graduate Based in India . I love to build Outma
  [<img src ="https://img.shields.io/badge/Website-vipin-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://easyvipin.github.io)  
  [<img src ="https://www.codewars.com/users/Easyvipin/badges/large">](https://www.codewars.com/users/Easyvipin)
 [![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
-
-
-[![Vipin github stats](https://github-readme-stats.vercel.app/api?username=easyvipin)](https://github.com/easyvipin/github-readme-stats)
 </td>
 </tr>
 </table>
