@@ -11,9 +11,7 @@ I'm a Front-end Developer and IT graduate Based in India . I love to build Outma
 <td> 
  
 ## `<Status/>`
-:rocket: Currently learning MERN stack!
-
-:comet: hunting down for Job!!
+:rocket: Currently learning Tailwind and Nextjs!
 
 ## `<Things/>` I like to do
 :computer:Code.
